@@ -1,0 +1,3 @@
+C:/Users/48793/CLionProjects/OU_Clion_Git2/cmake-build-debug/CMakeFiles/OU_Clion_Git2.dir
+C:/Users/48793/CLionProjects/OU_Clion_Git2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/48793/CLionProjects/OU_Clion_Git2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
